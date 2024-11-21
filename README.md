@@ -1,5 +1,10 @@
 # devCourse-nodePractice-baseball
 ## 데브코스 node, express 연습용
+- 강의에서 배운 express와 get, post를 이용한 간단한 프로젝트로 과제를 수행해보았습니다.
+- 시작 방법
+  - npm install
+  - node ./server.js
+
 ### 숫자야구 구현
 - 숫자야구 게임을 node와 express를 이용하여 구현해보기
 - post : 숫자를 입력받고 내부 계산 후 결과 보내기
