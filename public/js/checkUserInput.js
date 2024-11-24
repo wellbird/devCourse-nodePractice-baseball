@@ -15,5 +15,3 @@ function checkUserInput(event) {
 
   return true;
 }
-
-module.exports = checkUserInput;
